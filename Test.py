@@ -5,3 +5,6 @@ print(myvariable)
 
 simplemessage = ("and today I baked a cake")
 print(simplemessage)
+
+simplemessage = ("and today I baked a cake")
+print(simplemessage)
