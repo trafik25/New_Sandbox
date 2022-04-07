@@ -1,3 +1,5 @@
 
 
-#1:22 
+exVar = 100
+print(exVar)
+
