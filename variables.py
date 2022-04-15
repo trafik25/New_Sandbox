@@ -1,5 +1,8 @@
 
+firstname = "Thomas"
+lastname = 'Howard'
+print(firstname + ' ' + lastname)
 
-exVar = 100
-print(exVar)
-
+message =  "Thomas is good at metrics"
+message2 = "and also eating sushi yo!"
+print(message  + ' ' + message2)
