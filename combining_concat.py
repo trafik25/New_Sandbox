@@ -10,7 +10,4 @@ print("Hello" + ', ' + full_name.title())
 message = "Hello" + ', ' + full_name.title() + '!'
 print(message)
 
-print("python")
-print("\tpython") #whitespace \t 
-print("Languages:\nPython\njava\nPascal") #new line \n
 
